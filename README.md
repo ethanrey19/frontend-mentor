@@ -1,16 +1,35 @@
-# React + Vite
+# Frontend Mentor Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio of Frontend Mentor challenges built with React and Vite.
 
-Currently, two official plugins are available:
+## 🚀 Live Site
+https://ethanrey19.github.io/frontend-mentor/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Built With
+- React
+- Vite
+- React Router
+- GitHub Pages
 
-## React Compiler
+## 📁 Project Structure
+Each Frontend Mentor challenge is built as a separate route inside this React app.  
+The homepage acts as a hub to navigate between all projects.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 Features
+- Responsive React components
+- Multiple project pages using React Router
+- Deployed with GitHub Pages and GitHub Actions
+- Clean project organization for learning and practice
 
-## Expanding the ESLint configuration
+## 📚 Purpose
+This project is mainly for:
+- Practicing React fundamentals
+- Recreating real-world UI designs
+- Building a frontend development portfolio
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔄 Deployment
+Automatically deployed using GitHub Actions on every push to `main`.
+
+---
+
+Feel free to explore the projects and view the source code for each challenge.

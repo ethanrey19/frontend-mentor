@@ -3,7 +3,7 @@ import Home from "./pages/Home";
 
 function App() {
   return (
-    <BrowserRouter basename="/">
+    <BrowserRouter basename="/frontend-mentor">
       <Routes>
         <Route path="/" element={<Home />} />
       </Routes>

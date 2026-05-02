@@ -2,7 +2,7 @@ import "./Home.css";
 import { Link } from "react-router-dom";
 
 const projects = [
-  { name: "Test", path: "/test" },
+  { name: "QR Code", path: "/qrcode" },
   { name: "Test", path: "/test" },
   { name: "Test", path: "/test" },
 ];

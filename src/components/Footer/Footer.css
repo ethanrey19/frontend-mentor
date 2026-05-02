@@ -1,6 +1,9 @@
 .footer {
-    text-align: center;
-    margin-top: auto;
-    border-top: 1px solid #ccc;
-    height: 5vh;
+  text-align: center;
+  margin-top: auto;
+  background: transparent;
+}
+
+.footer-text {
+  font-size: 1.25rem;
 }

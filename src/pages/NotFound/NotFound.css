@@ -1,27 +1,26 @@
-.home-container {
+.not-found {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   height: 100vh;
-}
-
-.home-title {
   text-align: center;
-  font-size: 3rem;
 }
 
-.project-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+h1 {
+  font-size: 4rem;
+  margin-bottom: 0.5rem;
 }
 
-.project-item {
+p {
+  font-size: 1.75rem;
   margin-bottom: 0.75rem;
+}
+
+.not-found-link {
   font-size: 1.5rem;
 }
 
-.project-link:hover {
+.not-found-link:hover {
   background: #ffffff;
 }
